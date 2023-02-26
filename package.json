@@ -4,7 +4,7 @@
   "description": "Todo-list App with React Js and MongoDb",
   "main": "Server.js",
   "scripts": {
-    "start": "nodemon node Server.js",
+    "start": "node Server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Pablo Cosin",
